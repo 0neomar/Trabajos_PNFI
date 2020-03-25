@@ -1,0 +1,39 @@
+﻿###===========###
+### POR HACER ###
+###===========###
+
+
+### ALGORITMICA Y PROGRAMACION ###
+	Unidad ?: (TERMINADO)
+		EVAL: EJERCICIO
+		FECHA: 21-MAR-2020
+
+### MATES ###
+	Unidad 10: Función (TERMINADO)
+		EVAL: TRABAJO ESCRITO, GRUPO DE 4/5
+		FECHA: 31-MAR-2020
+			·Definición
+			·Clases
+			·Tipos
+			·Funcion compuesta
+			·Dominio y rango de una función
+			·Gráfica de una función
+			·Aplicaciones a la ingeniería informática
+
+### ARQUITECTURA ###
+	Unidad 3: Ensamblaje
+		EVAL: INVESTIGACION(5), INFORME(10), DEFENSA(10)
+		FECHA: INVESTIGACION(25-MAR-2020), INFORMA(31-MAR-2020), DEFENSA(01-ABR-2020)
+			·Ensamblaje de un computador, normas de seguridad (Descarga de estática, Manipulacion adecuada, los componenetes internos del hardware, herramientas requeridas para ensamblaje)
+			·Configuración del hardware (booteo del sistema)
+			·Verificacion de componentes y unidades del sistema
+
+
+### ELECTIVA ###
+	Unidad 2: Modelos de diseño instruccional (TERMINADO)
+		EVAL: INFORME DIGITAL, DEFENSA
+		FECHA: INFORME(26-MAR-2020), DEFENSA(27-MAR-2020)
+			·ADDIE
+			·ASSURE
+			·GAGNÈ
+			·KEMP
