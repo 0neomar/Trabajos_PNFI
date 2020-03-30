@@ -9,16 +9,13 @@
 		FECHA: 21-MAR-2020
 
 ### MATES ###
-	Unidad 10: Función (TERMINADO)
-		EVAL: TRABAJO ESCRITO, GRUPO DE 4/5
-		FECHA: 31-MAR-2020
-			·Definición
-			·Clases
-			·Tipos
-			·Funcion compuesta
-			·Dominio y rango de una función
-			·Gráfica de una función
-			·Aplicaciones a la ingeniería informática
+	Unidad 11: Límite y Continuidad de Fuunciones.
+	EVAL: TRABAJO
+	FECHA: 30-MAR-2020
+	·Límite: Definición
+	·Propiedades de los límites.
+	·Continuidad En Un Punto e Intervalo.
+
 
 ### ARQUITECTURA ###
 	Unidad 3: Ensamblaje
