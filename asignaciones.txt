@@ -4,12 +4,9 @@
 
 
 ### ALGORITMICA Y PROGRAMACION ###
-	Unidad ?: (TERMINADO)
-		EVAL: EJERCICIO
-		FECHA: 21-MAR-2020
 
 ### MATES ###
-	Unidad 11: Límite y Continuidad de Fuunciones.
+	Unidad 11: Límite y Continuidad de Funciones. (TERMINADO)
 	EVAL: TRABAJO
 	FECHA: 30-MAR-2020
 	·Límite: Definición
@@ -27,18 +24,10 @@
 
 
 ### ELECTIVA ###
-	Unidad 3: Desarrollo del Diseño Instruccional
+	Unidad 3: Desarrollo del Diseño Instruccional (TERMINADO)
 	EVAL: TRABAJO COMPLETO, GRUPO DE ?
 	FECHA: 06-ABR-2020
 		·Asociar c/u de los elementos que conforman el D.I.
 		·Fase diagnóstico de la instrucción, analisis de tarea,
 		  objetivos instruccionales, estrategia de aprendizaje,
 		  evaluación de los aprendizajes.
-
-	Unidad 2: Modelos de diseño instruccional (TERMINADO)
-		EVAL: INFORME DIGITAL, DEFENSA
-		FECHA: INFORME(26-MAR-2020), DEFENSA(27-MAR-2020)
-			·ADDIE
-			·ASSURE
-			·GAGNÈ
-			·KEMP
