@@ -26,7 +26,7 @@
 ### ELECTIVA ###
 	Unidad 3: Desarrollo del Diseño Instruccional (TERMINADO)
 	EVAL: TRABAJO COMPLETO, GRUPO DE ?
-	FECHA: 06-ABR-2020
+	FECHA: 13-ABR-2020
 		·Asociar c/u de los elementos que conforman el D.I.
 		·Fase diagnóstico de la instrucción, analisis de tarea,
 		  objetivos instruccionales, estrategia de aprendizaje,
