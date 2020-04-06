@@ -4,23 +4,26 @@
 
 
 ### ALGORITMICA Y PROGRAMACION ###
+### ARQUITECTURA ###
+
+### ACREDITABLES ###
+	Unidad ?: ?
+	EVAL: TRABAJO
+	FECHA: 22-ABR-2020
+	·Cuál es el alcance de su proyecto.
+	·Qué aspectos positivos posee su comunidad.
+	·Qué valores predominan en su comunidad y en su equipo; represente a través de infografía.
+	·Realice el árbol del problema y de objetivos de su proyecto.
+	·Determine la factibilidad económica, social y técnica.
+
 
 ### MATES ###
 	Unidad 11: Límite y Continuidad de Funciones. (TERMINADO)
 	EVAL: TRABAJO
-	FECHA: 30-MAR-2020
+	FECHA: 30-ABR-2020
 	·Límite: Definición
 	·Propiedades de los límites.
 	·Continuidad En Un Punto e Intervalo.
-
-
-### ARQUITECTURA ###
-	Unidad 3: Ensamblaje
-		EVAL: INVESTIGACION(5), INFORME(10), DEFENSA(10)
-		FECHA: INVESTIGACION(25-MAR-2020), INFORMA(31-MAR-2020), DEFENSA(01-ABR-2020)
-			·Ensamblaje de un computador, normas de seguridad (Descarga de estática, Manipulacion adecuada, los componenetes internos del hardware, herramientas requeridas para ensamblaje)
-			·Configuración del hardware (booteo del sistema)
-			·Verificacion de componentes y unidades del sistema
 
 
 ### ELECTIVA ###
