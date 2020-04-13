@@ -18,7 +18,7 @@
 
 
 ### MATES ###
-	Unidad 11: Límite y Continuidad de Funciones. (TERMINADO)
+	Unidad 11: Límite y Continuidad de Funciones. (TERMINADO, ENVIADO)
 	EVAL: TRABAJO
 	FECHA: 30-ABR-2020
 	·Límite: Definición
@@ -27,7 +27,7 @@
 
 
 ### ELECTIVA ###
-	Unidad 3: Desarrollo del Diseño Instruccional (TERMINADO)
+	Unidad 3: Desarrollo del Diseño Instruccional (TERMINADO, ENVIADO)
 	EVAL: TRABAJO COMPLETO, GRUPO DE ?
 	FECHA: 13-ABR-2020
 		·Asociar c/u de los elementos que conforman el D.I.
