@@ -7,7 +7,7 @@
 ### ARQUITECTURA ###
 
 ### ACREDITABLES ###
-	Unidad ?: ?
+	Unidad ?: ? (TERMINADO)
 	EVAL: TRABAJO
 	FECHA: 22-ABR-2020
 	·Cuál es el alcance de su proyecto.
