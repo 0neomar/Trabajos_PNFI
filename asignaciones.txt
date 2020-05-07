@@ -4,7 +4,14 @@
 
 
 ### ALGORITMICA Y PROGRAMACION ###
+
 ### ARQUITECTURA ###
+	Unidad 4: Sistemas Operativos
+	EVAL: TRABAJO, DEFENSA
+	FECHA: TRABAJO(12-MAY-20), DEFENSA(18-MAY-20)
+	·Definición, Tipos (libres y propietarios).
+	·Ventajas y desventajas.
+
 
 ### ACREDITABLES ###
 	Unidad ?: ?
