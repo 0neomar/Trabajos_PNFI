@@ -6,15 +6,15 @@
 ### ALGORITMICA Y PROGRAMACION ###
 
 ### ARQUITECTURA ###
-	Unidad 4: Sistemas Operativos
+	UNIDAD 4: Sistemas Operativos
 	EVAL: TRABAJO, DEFENSA
 	FECHA: TRABAJO(12-MAY-20), DEFENSA(18-MAY-20)
-	·Definición, Tipos (libres y propietarios).
-	·Ventajas y desventajas.
+		·Definición, Tipos (libres y propietarios).
+		·Ventajas y desventajas.
 
 
 ### ACREDITABLES ###
-	Unidad ?: ?
+	UNIDAD ?: ?
 	EVAL: INFORME, VIDEO EXPLICATIVO
 	FECHA: 29-MAY-2020
 	·1 ¿Cómo se ha visto afectado el desarrollo de su proyecto con la cuarentena?.
@@ -24,16 +24,25 @@
 
 
 ### MATES ###
-	Unidad 11: Límite y Continuidad de Funciones. (TERMINADO, ENVIADO)
+	UNIDAD 12: Derivada
 	EVAL: TRABAJO
-	FECHA: 30-ABR-2020
-	·Límite: Definición
-	·Propiedades de los límites.
-	·Continuidad En Un Punto e Intervalo.
+	FECHA: 18-ABR-2020
+		·Definición.
+		·Interpretación geométrica de la derivada.
+		·Propiedades.
+		·Aplicaciones a las derivadas.
+	
+	UNIDAD 13: Sucesiones y series
+	EVAL: TRABAJO
+	FECHA: 18-ABR-2020
+		·Definición de sucesiones y series.
+		·Criterios de convergencia y divergencia.
+		·Series y tipos (Taylor, Maclaurin).
+
 
 
 ### ELECTIVA ###
-	Unidad 3: Desarrollo del Diseño Instruccional (TERMINADO, ENVIADO)
+	UNIDAD 3: Desarrollo del Diseño Instruccional (TERMINADO, ENVIADO)
 	EVAL: TRABAJO COMPLETO, GRUPO DE ?
 	FECHA: 13-ABR-2020
 		·Asociar c/u de los elementos que conforman el D.I.
