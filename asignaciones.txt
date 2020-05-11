@@ -5,23 +5,13 @@
 ### ELECTIVA ###
 ### ALGORITMICA Y PROGRAMACION ###
 
+
 ### ARQUITECTURA ###
-	UNIDAD 4: Sistemas Operativos
+	UNIDAD 4: Sistemas Operativos (TERMINADO)
 	EVAL: TRABAJO, DEFENSA
 	FECHA: TRABAJO(12-MAY-20), DEFENSA(18-MAY-20)
 		·Definición, Tipos (libres y propietarios).
 		·Ventajas y desventajas.
-
-
-### ACREDITABLES ###
-	UNIDAD ?: ?
-	EVAL: INFORME, VIDEO EXPLICATIVO
-	FECHA: 29-MAY-2020
-	·1 ¿Cómo se ha visto afectado el desarrollo de su proyecto con la cuarentena?.
-	·2 ¿Qué medidas considera que se deben adoptar en función del desarrollo del proyecto?
-	·3 Tomando en cuenta el avance teórico que se lleva a nivel de las fases del informe técnico, ¿qué aspectos se le podrían incorporar a la matriz FODA, árbol del problema, valores predominantes en la comunidad y en su grupo partiendo de la realidad que ha conllevado esta cuarentena social?
-	·4 Tomando en cuenta el estudio a distancia, realizar una propuesta del plan de acción de cómo serían sus actividades de formación tecnológica?
-
 
 ### MATES ###
 	UNIDAD 12: Derivada
@@ -38,5 +28,14 @@
 		·Definición de sucesiones y series.
 		·Criterios de convergencia y divergencia.
 		·Series y tipos (Taylor, Maclaurin).
+
+### ACREDITABLES ###
+	UNIDAD ?: ?
+	EVAL: INFORME, VIDEO EXPLICATIVO
+	FECHA: 29-MAY-2020
+	·1 ¿Cómo se ha visto afectado el desarrollo de su proyecto con la cuarentena?.
+	·2 ¿Qué medidas considera que se deben adoptar en función del desarrollo del proyecto?
+	·3 Tomando en cuenta el avance teórico que se lleva a nivel de las fases del informe técnico, ¿qué aspectos se le podrían incorporar a la matriz FODA, árbol del problema, valores predominantes en la comunidad y en su grupo partiendo de la realidad que ha conllevado esta cuarentena social?
+	·4 Tomando en cuenta el estudio a distancia, realizar una propuesta del plan de acción de cómo serían sus actividades de formación tecnológica?
 
 
