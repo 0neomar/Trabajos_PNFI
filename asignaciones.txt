@@ -7,14 +7,14 @@
 
 
 ### ARQUITECTURA ###
-	UNIDAD 4: Sistemas Operativos (TERMINADO)
+	UNIDAD 4: Sistemas Operativos (TERMINADO, ENVIADO)
 	EVAL: TRABAJO, DEFENSA
 	FECHA: TRABAJO(12-MAY-20), DEFENSA(18-MAY-20)
 		·Definición, Tipos (libres y propietarios).
 		·Ventajas y desventajas.
 
 ### MATES ###
-	UNIDAD 12: Derivada
+	UNIDAD 12: Derivada (TERMINADO)
 	EVAL: TRABAJO
 	FECHA: 18-ABR-2020
 		·Definición.
@@ -22,8 +22,8 @@
 		·Propiedades.
 		·Aplicaciones a las derivadas.
 	
-	UNIDAD 13: Sucesiones y series
-	EVAL: TRABAJO (TERMINADO)
+	UNIDAD 13: Sucesiones y series (TERMINADO)
+	EVAL: TRABAJO
 	FECHA: 18-ABR-2020
 		·Definición de sucesiones y series.
 		·Criterios de convergencia y divergencia.
