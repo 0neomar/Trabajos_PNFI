@@ -23,7 +23,7 @@
 		·Aplicaciones a las derivadas.
 	
 	UNIDAD 13: Sucesiones y series
-	EVAL: TRABAJO
+	EVAL: TRABAJO (TERMINADO)
 	FECHA: 18-ABR-2020
 		·Definición de sucesiones y series.
 		·Criterios de convergencia y divergencia.
