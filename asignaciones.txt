@@ -2,8 +2,12 @@
 ### POR HACER ###
 ###===========###
 
-### ELECTIVA ###
 ### ALGORITMICA Y PROGRAMACION ###
+
+### ELECTIVA ###
+	UNIDAD 4: Tecnologías de la Iinformación y Comunicación
+	EVAL: ENSAYO
+	FECHA 18-MAY-2020
 
 
 ### ARQUITECTURA ###
