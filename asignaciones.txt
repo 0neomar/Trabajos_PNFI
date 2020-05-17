@@ -5,8 +5,8 @@
 ### ALGORITMICA Y PROGRAMACION ###
 
 ### ELECTIVA ###
-	UNIDAD 4: Tecnologías de la Iinformación y Comunicación
-	EVAL: ENSAYO
+	UNIDAD 4: TIC (TERMINADO)
+	EVAL: ENSAYO (4 págs; grupo de 5)
 	FECHA 18-MAY-2020
 
 
@@ -20,7 +20,7 @@
 ### MATES ###
 	UNIDAD 12: Derivada (TERMINADO)
 	EVAL: TRABAJO
-	FECHA: 18-ABR-2020
+	FECHA: 18-JUL-2020
 		·Definición.
 		·Interpretación geométrica de la derivada.
 		·Propiedades.
@@ -28,7 +28,7 @@
 	
 	UNIDAD 13: Sucesiones y series (TERMINADO)
 	EVAL: TRABAJO
-	FECHA: 18-ABR-2020
+	FECHA: 18-JUL-2020
 		·Definición de sucesiones y series.
 		·Criterios de convergencia y divergencia.
 		·Series y tipos (Taylor, Maclaurin).
