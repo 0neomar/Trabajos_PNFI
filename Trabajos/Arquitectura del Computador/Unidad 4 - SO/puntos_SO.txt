@@ -1,0 +1,5 @@
+adrian V/D de sistemas privativos
+victor  V/D de sistemas libres
+neomar  Tipos del SO
+jose  Tareas del SO
+mariana Que es el SO
