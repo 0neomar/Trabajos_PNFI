@@ -34,7 +34,7 @@
 		·Series y tipos (Taylor, Maclaurin).
 
 ### ACREDITABLES ###
-	UNIDAD ?: ?
+	UNIDAD ?: ? (TERMINADO)
 	EVAL: INFORME, VIDEO EXPLICATIVO
 	FECHA: 29-MAY-2020
 	·1 ¿Cómo se ha visto afectado el desarrollo de su proyecto con la cuarentena?.
