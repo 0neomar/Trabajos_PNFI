@@ -1,8 +1,11 @@
+# encoding:utf-8
+
 __integrantes__ = {
 	"27.216.702": "MARQUEZ ADRIAN",
+	"27.635.379": "GUDIÑO VICTOR",
 	"27.944.863": "RODRIGUEZ NEOMAR",
 	"29.669.993": "MENDEZ YAIFRAN",
-	"30.637.496": "SERENO JOSE",
+	"29.938.897": "MORA GABRIEL",
 }
 
 numeros_neg = []
